@@ -1,4 +1,24 @@
 
-{
-  "courseCode": "TES1345"
-}
+[
+    {
+        "name": "index.json",
+        "download_url": "https://raw.githubusercontent.com/myPastPapersUnisa/tes1234/main/index.json"
+    },
+    {
+        "name": "tes1512_2023-11.pdf",
+        "download_url": "https://raw.githubusercontent.com/myPastPapersUnisa/tes1234/main/tes1512_2023-11.pdf"
+    },
+    {
+        "name": "tes1512_2024-11.pdf",
+        "download_url": "https://raw.githubusercontent.com/myPastPapersUnisa/tes1234/main/tes1512_2024-11.pdf"
+    },
+    {
+        "name": "tes1512_2025-11.pdf",
+        "download_url": "https://raw.githubusercontent.com/myPastPapersUnisa/tes1234/main/tes1512_2025-11.pdf"
+    },
+    {
+        "name": "test",
+        "download_url": "https://raw.githubusercontent.com/myPastPapersUnisa/tes1234/main/test"
+    }
+]
+  
